@@ -1,0 +1,16 @@
+WordPress:
+    Allow our team of professionals to create your WordPress website. We can create anything from a landing page to a full e-commerce site, an online learning institution, or an interactive educational site for your company.
+name = 'bangladesh'
+{'country':{
+    "asia":['bangladesh','india','pak'...],
+    'europe':['italy','francc',..]
+}}
+asia = country.asia
+asia.map(e=>{
+    if (e==name){
+        some code
+    }
+    else {
+        
+    }
+})
